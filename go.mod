@@ -11,7 +11,8 @@ require (
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
-	github.com/xo/dburl v0.0.0-20200124232849-e9ec94f52bc3
+	github.com/xo/dburl v0.0.0-20200727080105-4a02649c2fea
+	github.com/xo/xo v0.0.0-20200425011923-7818603ff52b
 	github.com/xo/xoutil v0.0.0-20171112033149-46189f4026a5
 	golang.org/x/crypto v0.0.0-20200423211502-4bdfaf469ed5 // indirect
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a // indirect
